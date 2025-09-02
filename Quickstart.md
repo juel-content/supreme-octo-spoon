@@ -32,7 +32,7 @@ brew install mytool
 
 * * * * *
 
-First Command
+**First Command**
 
 -------------
 
@@ -46,7 +46,7 @@ Expected output:
 
 * * * * *
 
-Verify Installation
+**Verify Installation**
 
 -------------------
 
@@ -60,7 +60,7 @@ Expected output:
 
 * * * * *
 
-Windows Installation
+**Windows Installation**
 
 --------------------
 
@@ -74,7 +74,7 @@ Then run the same first command:
 
 * * * * *
 
-Troubleshooting
+## Troubleshooting
 
 ---------------
 
@@ -88,7 +88,7 @@ Troubleshooting
 
 * * * * *
 
-Uninstallation
+## Uninstallation
 
 --------------
 
@@ -102,7 +102,7 @@ Uninstallation
 
 * * * * *
 
-Next Steps
+## Next Steps
 
 ----------
 
