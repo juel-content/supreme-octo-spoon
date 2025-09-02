@@ -18,53 +18,85 @@ Before installing, make sure you have:
 
 Open your terminal and run:
 
+
 ```bash
 brew install mytool
+```
 
-This will download and install the latest version of MyTool.
+* * * * *
+
 First Command
+-------------
+
 After installation, run:
 
-mytool init
+`mytool init`
 
 Expected output:
-✅ MyTool has been successfully installed!
+
+`✅ MyTool has been successfully installed!`
+
+* * * * *
 
 Verify Installation
+-------------------
+
 To confirm MyTool is working, run:
 
-mytool status
+`mytool status`
 
 Expected output:
 
-MyTool is running in default mode.
+`MyTool is running in default mode.`
+
+* * * * *
 
 Windows Installation
+--------------------
+
 MyTool supports Windows via Chocolatey:
 
-choco install mytool
+`choco install mytool`
 
 Then run the same first command:
 
-mytool init
+`mytool init`
+
+* * * * *
 
 Troubleshooting
+---------------
 
-Homebrew error: If brew install mytool fails, ensure Homebrew is installed and updated.
-Permission denied: If mytool init returns a permissions error, try:
+-   **Homebrew error:** If `brew install mytool` fails, ensure Homebrew is installed and updated.
 
-sudo mytool init
+-   **Permission denied:** If `mytool init` returns a permissions error, try:
 
-Network issues: Check your internet connection or proxy settings if downloads fail.
+`sudo mytool init`
+
+-   **Network issues:** Check your internet connection or proxy settings if downloads fail.
+
+* * * * *
 
 Uninstallation
+--------------
 
-macOS/Linux:
-brew uninstall mytool
+**macOS/Linux:**
 
-Windows (Chocolatey):
-choco uninstall mytool
+`brew uninstall mytool`
+
+**Windows (Chocolatey):**
+
+`choco uninstall mytool`
+
+* * * * *
 
 Next Steps
-You’re ready to start using MyTool.
-See the User Guide for advanced commands, workflows, and configuration tips.
+----------
+
+You're ready to start using **MyTool**.\
+See the User Guide for advanced commands, workflows, and configuration tips.
+
+This will download and install the latest version of MyTool.
+
+* * * * *
+
