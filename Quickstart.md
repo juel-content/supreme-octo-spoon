@@ -46,7 +46,7 @@ Expected output:
 
 * * * * *
 
-** Verify Installation 
+## Verify Installation 
 
 To confirm tasty is working, run:
 
