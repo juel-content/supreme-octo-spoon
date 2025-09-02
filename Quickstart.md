@@ -60,9 +60,7 @@ Expected output:
 
 * * * * *
 
-** Windows Installation
-
---------------------
+## Windows Installation
 
 MyTool supports Windows via Chocolatey:
 
