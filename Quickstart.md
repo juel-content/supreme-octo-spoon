@@ -1,6 +1,6 @@
-# Quickstart Guide for MyTool
+# Quickstart Guide for Tasty
 
-This guide will help you install **MyTool**, run your first command, and verify that it works.
+This guide will help you install **Tasty**, run your first command, and verify that it works.
 
 Estimated time: **5 minutes**.
 
@@ -26,7 +26,7 @@ Open your terminal and run:
 
 ```bash
 
-brew install mytool
+brew install tasty
 
 ```
 
@@ -38,45 +38,45 @@ brew install mytool
 
 After installation, run:
 
-`mytool init`
+`Tasty init`
 
 Expected output:
 
-`✅ MyTool has been successfully installed!`
+`✅ Tasty has been successfully installed!`
 
 * * * * *
 
 ** Verify Installation 
 
-To confirm MyTool is working, run:
+To confirm Tasty is working, run:
 
-`mytool status`
+`tasty status`
 
 Expected output:
 
-`MyTool is running in default mode.`
+`Tasty is running in default mode.`
 
 * * * * *
 
 ## Windows Installation
 
-MyTool supports Windows via Chocolatey:
+Tasty supports Windows via Chocolatey:
 
-`choco install mytool`
+`choco install Tasty`
 
 Then run the same first command:
 
-`mytool init`
+`Tasty init`
 
 * * * * *
 
 ## Troubleshooting
 
--   **Homebrew error:** If `brew install mytool` fails, ensure Homebrew is installed and updated.
+-   **Homebrew error:** If `brew install Tasty` fails, ensure Homebrew is installed and updated.
 
--   **Permission denied:** If `mytool init` returns a permissions error, try:
+-   **Permission denied:** If `Tasty init` returns a permissions error, try:
 
-`sudo mytool init`
+`sudo Tasty init`
 
 -   **Network issues:** Check your internet connection or proxy settings if downloads fail.
 
@@ -86,20 +86,20 @@ Then run the same first command:
 
 **macOS/Linux:**
 
-`brew uninstall mytool`
+`brew uninstall Tasty`
 
 **Windows (Chocolatey):**
 
-`choco uninstall mytool`
+`choco uninstall Tasty`
 
 * * * * *
 
 ## Next Steps
 
 
-You're ready to start using **MyTool**.
+You're ready to start using **Tasty**.
 
-This will download and install the latest version of MyTool. 
+This will download and install the latest version of Tasty. 
 
 See the User Guide for advanced commands, workflows, and configuration tips.
 
