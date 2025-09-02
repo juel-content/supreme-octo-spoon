@@ -4,7 +4,7 @@ Welcome to my technical writing portfolio.
 This repository contains sample documentation projects created to demonstrate my skills in technical communication, API documentation, and user onboarding.
 
 ## Contents
-- **[Quickstart Guide](quickstart.md)** – Install and run your first command with **MyTool**.
+- [Quickstart Guide](Quickstart.md) – Install and run your first command with **MyTool**.
 - **[User Guide](user-guide.md)** – Placeholder for advanced features and workflows.
 
 ## About Me
