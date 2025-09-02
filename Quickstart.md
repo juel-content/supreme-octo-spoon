@@ -108,8 +108,8 @@ Then run the same first command:
 
 You're ready to start using **MyTool**.
 
-See the User Guide for advanced commands, workflows, and configuration tips.
+This will download and install the latest version of MyTool. 
 
-This will download and install the latest version of MyTool.
+See the User Guide for advanced commands, workflows, and configuration tips.
 
 * * * * *
