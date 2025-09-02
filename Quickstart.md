@@ -1,13 +1,19 @@
 # Quickstart Guide for MyTool
 
-This guide will help you install **MyTool**, run your first command, and verify that it works. Estimated time: **5 minutes**.
+This guide will help you install **MyTool**, run your first command, and verify that it works.
+
+Estimated time: **5 minutes**.
 
 ---
 
 ## Prerequisites
+
 Before installing, make sure you have:
+
 - macOS or Linux computer
+
 - [Homebrew](https://brew.sh/) installed
+
 - Internet connection
 
 > **Windows users:** see [Windows Installation](#windows-installation).
@@ -18,14 +24,16 @@ Before installing, make sure you have:
 
 Open your terminal and run:
 
-
 ```bash
+
 brew install mytool
+
 ```
 
 * * * * *
 
 First Command
+
 -------------
 
 After installation, run:
@@ -39,6 +47,7 @@ Expected output:
 * * * * *
 
 Verify Installation
+
 -------------------
 
 To confirm MyTool is working, run:
@@ -52,6 +61,7 @@ Expected output:
 * * * * *
 
 Windows Installation
+
 --------------------
 
 MyTool supports Windows via Chocolatey:
@@ -65,19 +75,21 @@ Then run the same first command:
 * * * * *
 
 Troubleshooting
+
 ---------------
 
--   **Homebrew error:** If `brew install mytool` fails, ensure Homebrew is installed and updated.
+-   **Homebrew error:** If `brew install mytool` fails, ensure Homebrew is installed and updated.
 
--   **Permission denied:** If `mytool init` returns a permissions error, try:
+-   **Permission denied:** If `mytool init` returns a permissions error, try:
 
 `sudo mytool init`
 
--   **Network issues:** Check your internet connection or proxy settings if downloads fail.
+-   **Network issues:** Check your internet connection or proxy settings if downloads fail.
 
 * * * * *
 
 Uninstallation
+
 --------------
 
 **macOS/Linux:**
@@ -91,12 +103,13 @@ Uninstallation
 * * * * *
 
 Next Steps
+
 ----------
 
-You're ready to start using **MyTool**.\
-See the User Guide for advanced commands, workflows, and configuration tips.
+You're ready to start using **MyTool**.
+
+See the User Guide for advanced commands, workflows, and configuration tips.
 
 This will download and install the latest version of MyTool.
 
 * * * * *
-
