@@ -48,8 +48,6 @@ Expected output:
 
 ** Verify Installation 
 
--------------------
-
 To confirm MyTool is working, run:
 
 `mytool status`
@@ -74,8 +72,6 @@ Then run the same first command:
 
 ## Troubleshooting
 
----------------
-
 -   **Homebrew error:** If `brew install mytool` fails, ensure Homebrew is installed and updated.
 
 -   **Permission denied:** If `mytool init` returns a permissions error, try:
@@ -87,8 +83,6 @@ Then run the same first command:
 * * * * *
 
 ## Uninstallation
-
---------------
 
 **macOS/Linux:**
 
@@ -102,7 +96,6 @@ Then run the same first command:
 
 ## Next Steps
 
-----------
 
 You're ready to start using **MyTool**.
 
