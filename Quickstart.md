@@ -1,6 +1,6 @@
-# Quickstart Guide for Tasty
+# Quickstart Guide for tasty
 
-This guide will help you install **Tasty**, run your first command, and verify that it works.
+This guide will help you install **tasty**, run your first command, and verify that it works.
 
 Estimated time: **5 minutes**.
 
@@ -38,45 +38,45 @@ brew install tasty
 
 After installation, run:
 
-`Tasty init`
+`tasty init`
 
 Expected output:
 
-`✅ Tasty has been successfully installed!`
+`✅ tasty has been successfully installed!`
 
 * * * * *
 
 ** Verify Installation 
 
-To confirm Tasty is working, run:
+To confirm tasty is working, run:
 
 `tasty status`
 
 Expected output:
 
-`Tasty is running in default mode.`
+`tasty is running in default mode.`
 
 * * * * *
 
 ## Windows Installation
 
-Tasty supports Windows via Chocolatey:
+tasty supports Windows via Chocolatey:
 
-`choco install Tasty`
+`choco install tasty`
 
 Then run the same first command:
 
-`Tasty init`
+`tasty init`
 
 * * * * *
 
 ## Troubleshooting
 
--   **Homebrew error:** If `brew install Tasty` fails, ensure Homebrew is installed and updated.
+-   **Homebrew error:** If `brew install tasty` fails, ensure Homebrew is installed and updated.
 
--   **Permission denied:** If `Tasty init` returns a permissions error, try:
+-   **Permission denied:** If `tasty init` returns a permissions error, try:
 
-`sudo Tasty init`
+`sudo tasty init`
 
 -   **Network issues:** Check your internet connection or proxy settings if downloads fail.
 
@@ -86,20 +86,20 @@ Then run the same first command:
 
 **macOS/Linux:**
 
-`brew uninstall Tasty`
+`brew uninstall tasty`
 
 **Windows (Chocolatey):**
 
-`choco uninstall Tasty`
+`choco uninstall tasty`
 
 * * * * *
 
 ## Next Steps
 
 
-You're ready to start using **Tasty**.
+You're ready to start using **tasty**.
 
-This will download and install the latest version of Tasty. 
+This will download and install the latest version of tasty. 
 
 See the User Guide for advanced commands, workflows, and configuration tips.
 
