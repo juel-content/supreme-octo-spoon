@@ -8,7 +8,7 @@ This repository contains sample documentation projects created to demonstrate my
 
 ## Contents
 
-- [Quickstart Guide](Quickstart.md)  
+- [Quickstart Guide for tasty](Quickstart.md)  
   - [Installation](Quickstart.md#installation-macoslinux)  
   - [First Command](Quickstart.md#first-command)  
   - [Troubleshooting](Quickstart.md#troubleshooting)  
