@@ -32,7 +32,7 @@ brew install mytool
 
 * * * * *
 
-**First Command**
+## First Command
 
 -------------
 
@@ -46,7 +46,7 @@ Expected output:
 
 * * * * *
 
-**Verify Installation**
+** Verify Installation 
 
 -------------------
 
@@ -60,7 +60,7 @@ Expected output:
 
 * * * * *
 
-**Windows Installation**
+** Windows Installation
 
 --------------------
 
