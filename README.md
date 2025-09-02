@@ -11,7 +11,3 @@ This repository contains sample documentation projects created to demonstrate my
 I’m an experienced writer with a background in marketing, journalism, and product content.  
 I’ve completed Google’s Technical Writing course and I’m building hands-on documentation samples using Markdown and GitHub.
 
-## Next Steps
-- Add API reference sample
-- Add troubleshooting playbook
-- (Optional) Publish as a MkDocs site
