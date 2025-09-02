@@ -1,6 +1,6 @@
 # MyTool User Guide (Placeholder)
 
-This page will include advanced usage instructions for **MyTool**.
+This page will include advanced usage instructions for **tasty**.
 
 ## Planned Sections
 
